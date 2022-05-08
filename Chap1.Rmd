@@ -1,9 +1,3 @@
----
-title: "Basic R for all"
-output:
-  html_document:
-    df_print: paged
----
 
 # การใช้ R ขั้นพื้นฐานสำหรับการวิเคราะห์ทางสถิติ
 
